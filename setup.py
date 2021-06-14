@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name             = 'pygifconverter',
-    version          = '1.0.1',
+    version          = '1.0.2',
     description      = 'Test package for distribution',
     author           = 'lih0905',
     author_email     = 'lih0905@gmail.com',
