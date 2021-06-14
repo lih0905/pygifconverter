@@ -12,7 +12,7 @@ Download using pip via pypi.
 ```bash
 $ pip install pygifconverter --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+https://github.com/lih0905/pygifconverter.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
